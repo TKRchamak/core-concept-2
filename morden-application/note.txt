@@ -1,0 +1,10 @@
+STATE
+
+
+Which application have reminder that remind what tool r seee that is call state application.
+
+and other application is not state application
+
+## anguler //react //viewJS
+
+## pichart,  bychart, linechart, chartjs
